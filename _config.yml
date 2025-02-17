@@ -21,11 +21,4 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  repository_url: https://github.com/jingxuehan0707/cv.gisgeozone.com.git # Online location of your book
-  repository_provider: github # Online location of your book
-
-# Add GitHub buttons to your book
-# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
-html:
-  use_issues_button: true
-  use_repository_button: true
+  url: https://cv.gisgeozone.com # Online location of your book
